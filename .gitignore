@@ -1,0 +1,20 @@
+# Ignore Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+venv/
+.venv/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore compiled files
+*.log
+*.db
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
